@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-A brief description of what this project does and who it's for
+Rock Paper Scissors
 
 
 ## Authors
